@@ -10,3 +10,6 @@ wheels/
 .venv
 
 .env
+
+*.sqlite3
+data/vector_store/
