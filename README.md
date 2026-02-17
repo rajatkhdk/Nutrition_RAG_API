@@ -94,7 +94,7 @@ Server starts at: http://127.0.0.1:8000
 
 ## Core Components
 rag_pipeline.py
-- CSV → Documents
+- CSV -> Documents
 - Sentence embeddings
 - Vector storage with Chroma
 - Similarity retrieval
