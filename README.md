@@ -1,4 +1,3 @@
-# Nutrition_RAG_API
 # Food Nutrition RAG API
 
 A Retrieval-Augmented Generation (RAG) based nutrition assistant that answers food nutrition queries using an Indian food dataset and a large language model.
